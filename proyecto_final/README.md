@@ -19,3 +19,11 @@ Para responder a estas preguntas, se realizará un análisis exploratorio de dat
 ## Conjunto de datos
 
 El conjunto de datos utilizado en este proyecto se llama "Telco Customer Churn". Este conjunto de datos contiene información sobre clientes de una empresa de telecomunicaciones, incluyendo información demográfica, servicios contratados, duración del contrato, tipo de facturación y tasa de abandono. El conjunto de datos consta de 7.043 observaciones y 21 variables.
+
+## Autoría
+
+Este proyecto fue realizado por [Jose Zacarías Flores](https://www.linkedin.com/in/jose-zacarias-flores/), como proyecto final para el curso de Data Science.
+
+## Referencias
+
+- [Telco Customer Churn - Kaggle](https://www.kaggle.com/blastchar/telco-customer-churn)
